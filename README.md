@@ -1,4 +1,4 @@
 # Random
 my portfolio
 
-LINK   :    https://rk-4u.github.io/Random/
+LINK   :    https://yashuuu9.github.io/Portfolio/

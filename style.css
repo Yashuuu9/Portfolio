@@ -96,16 +96,16 @@ section .title::after{
     justify-content: space-between;
 }
 .navbar .logo a{
-    color: #fff;
+    color: #9C27B0;
     font-size: 35px;
     font-weight: 600;
 }
 .navbar .logo a span{
-    color: red;
+    color: purple;
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
-    color: #fff;
+    color:#9C27B0;
 }
 .navbar .menu li{
     list-style: none;
